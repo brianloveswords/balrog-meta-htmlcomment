@@ -3,7 +3,6 @@
 
 Extract metadata from files by looking at a leading comment!
 
-
 ## Example
 
 **Input:**
